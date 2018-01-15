@@ -1,0 +1,3 @@
+FINANCE TRACKER APP
+
+Using Rails 5
